@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">আমার হিসাব</string>
+    <!-- Replace with the Web client ID from your Firebase project. -->
+    <string name="default_web_client_id">YOUR_FIREBASE_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>
